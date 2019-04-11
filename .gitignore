@@ -1,0 +1,10 @@
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
+target
+node_modules
+some-app.iml
+.idea
+.shadow-cljs
